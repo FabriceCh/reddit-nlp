@@ -13,5 +13,6 @@ What was done for basic school project:
 Goals:
 
 - Explore additional methods: BERT, LSTMs layers, convolutional NNs
+- Use GPU acceleration
 - Add dataset of images and perform the same kind of classification
 - Use more metrics than accuracy to measure performance of models
